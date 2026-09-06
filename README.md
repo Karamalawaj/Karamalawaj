@@ -54,12 +54,13 @@ A secure engineering control plane and workspace factory designed around AI-assi
 **Source visibility:** Private — active development and proprietary system architecture.  
 [View public architecture showcase →](projects/ka-saas-engineering-hub.md)
 
-### Invoice & Operations Management System · 2026 🔒
+### [Invoice & Operations Management System](projects/invoice-operations-system.md) · 2026 🔒
 An internal business application for invoice generation and operational management, including customer records, VAT and discount calculations, invoice archiving, Excel reporting, and translation-assisted service workflows.
 
 **Built with:** Python · Flask · SQLite · JavaScript · Bootstrap · openpyxl
 
-**Source visibility:** Private — contains business-specific workflows and internal implementation details.
+**Source visibility:** Private — contains business-specific workflows and internal implementation details.  
+[View public project showcase →](projects/invoice-operations-system.md)
 
 ---
 
