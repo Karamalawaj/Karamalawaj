@@ -10,7 +10,7 @@ Building practical software with **Flutter, Python, APIs, databases, and AI-assi
 
 Based in the **United Arab Emirates** · Open to software engineering opportunities
 
-[HealHub](https://github.com/Karamalawaj/HealHub) · [Bright Eyes](https://github.com/Karamalawaj/Bright-Eyes-project)
+[HealHub](https://github.com/Karamalawaj/HealHub) · [Bright Eyes](https://github.com/Karamalawaj/Bright-Eyes-project) · [KA Hub Showcase](projects/ka-saas-engineering-hub.md)
 
 </div>
 
@@ -46,12 +46,13 @@ Single-clinic ophthalmology workflow prototype with patient authentication, clin
 
 Some of my newer systems remain private because they contain **proprietary implementation details, internal business workflows, or actively evolving architecture**. The projects are described here at a high level without exposing private source code or operational configuration.
 
-### KA SaaS Engineering Hub · 2026 🔒
+### [KA SaaS Engineering Hub](projects/ka-saas-engineering-hub.md) · 2026 🔒
 A secure engineering control plane and workspace factory designed around AI-assisted software development. The system coordinates trusted project workspaces, policy and identity boundaries, agent handoff sessions, infrastructure evidence, release verification, and continuous security checks.
 
 **Engineering areas:** Node.js · security architecture · Git workflows · infrastructure orchestration · MCP / agent tooling · cryptographic signing · automated verification
 
-**Source visibility:** Private — active development and proprietary system architecture.
+**Source visibility:** Private — active development and proprietary system architecture.  
+[View public architecture showcase →](projects/ka-saas-engineering-hub.md)
 
 ### Invoice & Operations Management System · 2026 🔒
 An internal business application for invoice generation and operational management, including customer records, VAT and discount calculations, invoice archiving, Excel reporting, and translation-assisted service workflows.
