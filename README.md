@@ -28,20 +28,18 @@ I use **AI coding agents as part of my engineering workflow** — helping with i
 
 ## Featured projects
 
-### [HealHub](projects/healhub.md) · 2025 🔒
+### [HealHub](projects/healhub.md) · 2025
 Role-based healthcare application prototype connecting patients and doctors through schedule-aware appointment booking, appointment lifecycle management, digital prescriptions, community features, ratings, and notifications.
 
 **Built with:** Flutter · Dart · GetX · Firebase Authentication · Cloud Firestore
 
-**Portfolio visibility:** Public showcase; full source can remain private.  
 [View project showcase →](projects/healhub.md)
 
-### [Bright Eyes](projects/bright-eyes.md) · 2024 🔒
+### [Bright Eyes](projects/bright-eyes.md) · 2024
 Single-clinic ophthalmology workflow prototype with patient authentication, clinic-managed appointment scheduling, registered-patient management, and structured right/left-eye reports that doctors can edit and patients can view in read-only mode.
 
 **Built with:** Flutter · Dart · GetX · Firebase Authentication · Cloud Firestore
 
-**Portfolio visibility:** Public showcase; full source can remain private.  
 [View project showcase →](projects/bright-eyes.md)
 
 ---
