@@ -10,7 +10,7 @@ Building practical software with **Flutter, Python, APIs, databases, and AI-assi
 
 Based in the **United Arab Emirates** · Open to software engineering opportunities
 
-[HealHub](https://github.com/Karamalawaj/HealHub) · [Bright Eyes](https://github.com/Karamalawaj/Bright-Eyes-project) · [KA Hub Showcase](projects/ka-saas-engineering-hub.md)
+[HealHub Showcase](projects/healhub.md) · [Bright Eyes Showcase](projects/bright-eyes.md) · [KA Hub Showcase](projects/ka-saas-engineering-hub.md)
 
 </div>
 
@@ -26,19 +26,23 @@ I use **AI coding agents as part of my engineering workflow** — helping with i
 
 ---
 
-## Featured public projects
+## Featured projects
 
-### [HealHub](https://github.com/Karamalawaj/HealHub) · 2025
+### [HealHub](projects/healhub.md) · 2025 🔒
 Role-based healthcare application prototype connecting patients and doctors through schedule-aware appointment booking, appointment lifecycle management, digital prescriptions, community features, ratings, and notifications.
 
 **Built with:** Flutter · Dart · GetX · Firebase Authentication · Cloud Firestore
 
-### [Bright Eyes](https://github.com/Karamalawaj/Bright-Eyes-project) · 2024
+**Portfolio visibility:** Public showcase; full source can remain private.  
+[View project showcase →](projects/healhub.md)
+
+### [Bright Eyes](projects/bright-eyes.md) · 2024 🔒
 Single-clinic ophthalmology workflow prototype with patient authentication, clinic-managed appointment scheduling, registered-patient management, and structured right/left-eye reports that doctors can edit and patients can view in read-only mode.
 
 **Built with:** Flutter · Dart · GetX · Firebase Authentication · Cloud Firestore
 
-> Screenshots, implementation details, and additional project information are available inside each public repository.
+**Portfolio visibility:** Public showcase; full source can remain private.  
+[View project showcase →](projects/bright-eyes.md)
 
 ---
 
