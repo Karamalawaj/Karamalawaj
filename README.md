@@ -10,7 +10,7 @@ Building practical software with **Flutter, Python, APIs, databases, and AI-assi
 
 Based in the **United Arab Emirates** · Open to software engineering opportunities
 
-[HealHub Showcase](projects/healhub.md) · [Bright Eyes Showcase](projects/bright-eyes.md) · [KA Hub Showcase](projects/ka-saas-engineering-hub.md)
+[HealHub Showcase](projects/healhub.md) · [Bright Eyes Showcase](projects/bright-eyes.md) · [KA Hub Showcase](projects/ka-saas-engineering-hub.md) · [Invoice System Showcase](projects/invoice-operations-system.md)
 
 </div>
 
