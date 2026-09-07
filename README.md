@@ -33,14 +33,14 @@ Role-based healthcare application prototype connecting patients and doctors thro
 
 **Built with:** Flutter · Dart · GetX · Firebase Authentication · Cloud Firestore
 
-[View project showcase →](projects/healhub.md)
+[View project showcase →](projects/healhub.md) · [View source repository →](https://github.com/Karamalawaj/HealHub)
 
 ### [Bright Eyes](projects/bright-eyes.md) · 2024
 Single-clinic ophthalmology workflow prototype with patient authentication, clinic-managed appointment scheduling, registered-patient management, and structured right/left-eye reports that doctors can edit and patients can view in read-only mode.
 
 **Built with:** Flutter · Dart · GetX · Firebase Authentication · Cloud Firestore
 
-[View project showcase →](projects/bright-eyes.md)
+[View project showcase →](projects/bright-eyes.md) · [View source repository →](https://github.com/Karamalawaj/Bright-Eyes-project)
 
 ---
 
