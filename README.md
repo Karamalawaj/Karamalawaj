@@ -10,7 +10,7 @@ Building practical software with **Flutter, Python, APIs, databases, and AI-assi
 
 Based in the **United Arab Emirates** · Open to software engineering opportunities
 
-[HealHub Showcase](projects/healhub.md) · [Bright Eyes Showcase](projects/bright-eyes.md) · [Nexus AI Showcase](projects/nexus-ai-backend.md) · [KA Hub Showcase](projects/ka-saas-engineering-hub.md) · [Invoice System Showcase](projects/invoice-operations-system.md)
+[HealHub Showcase](https://github.com/Karamalawaj/healhub-showcase) · [Bright Eyes Showcase](https://github.com/Karamalawaj/bright-eyes-showcase) · [Nexus AI Showcase](https://github.com/Karamalawaj/nexus-ai-showcase) · [SaaS Engineering Hub Showcase](https://github.com/Karamalawaj/saas-engineering-hub-showcase) · [Invoice System Showcase](https://github.com/Karamalawaj/invoice-app-showcase)
 
 </div>
 
@@ -36,47 +36,45 @@ For projects where the full source is private, the public showcase intentionally
 
 ## Featured projects
 
-### [HealHub](projects/healhub.md) · 2025
+### [HealHub](https://github.com/Karamalawaj/healhub-showcase) · 2025
 Role-based healthcare application prototype connecting patients and doctors through schedule-aware appointment booking, appointment lifecycle management, digital prescriptions, community features, ratings, and notifications.
 
 **Built with:** Flutter · Dart · GetX · Firebase Authentication · Cloud Firestore
 
-[View project showcase →](projects/healhub.md)
+[View project showcase →](https://github.com/Karamalawaj/healhub-showcase)
 
-### [Bright Eyes](projects/bright-eyes.md) · 2024
+### [Bright Eyes](https://github.com/Karamalawaj/bright-eyes-showcase) · 2024
 Single-clinic ophthalmology workflow prototype with patient authentication, clinic-managed appointment scheduling, registered-patient management, and structured right/left-eye reports that doctors can edit and patients can view in read-only mode.
 
 **Built with:** Flutter · Dart · GetX · Firebase Authentication · Cloud Firestore
 
-[View project showcase →](projects/bright-eyes.md)
+[View project showcase →](https://github.com/Karamalawaj/bright-eyes-showcase)
 
 ---
 
 ## Selected private work
 
-These systems remain private because they contain **proprietary implementation details, internal business workflows, or actively evolving architecture**. Each public page is a portfolio-safe overview rather than a source-code mirror.
+These systems remain private because they contain **proprietary implementation details, internal business workflows, or actively evolving architecture**. Each public repository is a portfolio-safe overview rather than a source-code mirror.
 
-### [Nexus AI Backend](projects/nexus-ai-backend.md) · 2026 🔒
+### [Nexus AI Backend](https://github.com/Karamalawaj/nexus-ai-showcase) · 2026 🔒
 Private backend platform supporting AI-enabled application workflows through a structured service layer, persistent data, controlled integrations, and security-conscious configuration boundaries.
 
-**Source visibility:** Full source private — public portfolio page intentionally excludes implementation and operational details.  
-[View public project showcase →](projects/nexus-ai-backend.md)
+**Source visibility:** Full source private — public portfolio repository intentionally excludes implementation and operational details.  
+[View public project showcase →](https://github.com/Karamalawaj/nexus-ai-showcase)
 
-### [KA SaaS Engineering Hub](projects/ka-saas-engineering-hub.md) · 2026 🔒
-A secure engineering control plane and workspace factory designed around AI-assisted software development. The system coordinates trusted project workspaces, policy and identity boundaries, agent handoff sessions, infrastructure evidence, release verification, and continuous security checks.
-
-**Engineering areas:** Node.js · security architecture · Git workflows · infrastructure orchestration · MCP / agent tooling · cryptographic signing · automated verification
+### [SaaS Engineering Hub](https://github.com/Karamalawaj/saas-engineering-hub-showcase) · 2026 🔒
+A secure engineering control plane and workspace platform designed around AI-assisted software development, controlled project environments, policy boundaries, verification, and release discipline.
 
 **Source visibility:** Private — active development and proprietary system architecture.  
-[View public architecture showcase →](projects/ka-saas-engineering-hub.md)
+[View public project showcase →](https://github.com/Karamalawaj/saas-engineering-hub-showcase)
 
-### [Invoice & Operations Management System](projects/invoice-operations-system.md) · 2026 🔒
+### [Invoice & Operations Management System](https://github.com/Karamalawaj/invoice-app-showcase) · 2026 🔒
 An internal business application for invoice generation and operational management, including customer records, VAT and discount calculations, invoice archiving, Excel reporting, and translation-assisted service workflows.
 
 **Built with:** Python · Flask · SQLite · JavaScript · Bootstrap · openpyxl
 
 **Source visibility:** Private — contains business-specific workflows and internal implementation details.  
-[View public project showcase →](projects/invoice-operations-system.md)
+[View public project showcase →](https://github.com/Karamalawaj/invoice-app-showcase)
 
 ---
 
