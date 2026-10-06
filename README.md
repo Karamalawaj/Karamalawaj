@@ -10,7 +10,7 @@ Building practical software with **Flutter, Python, APIs, databases, and AI-assi
 
 Based in the **United Arab Emirates** · Open to software engineering opportunities
 
-[Nexus AI](https://github.com/Karamalawaj/nexus-ai-showcase) · [SaaS Engineering Hub](https://github.com/Karamalawaj/saas-engineering-hub-showcase) · [Invoice System](https://github.com/Karamalawaj/invoice-app-showcase) · [HealHub](https://github.com/Karamalawaj/healhub-showcase) · [Bright Eyes](https://github.com/Karamalawaj/bright-eyes-showcase)
+[Nexus AI](https://karamalawaj.github.io/nexus-ai-showcase/) · [SaaS Engineering Hub](https://github.com/Karamalawaj/saas-engineering-hub-showcase) · [Invoice System](https://github.com/Karamalawaj/invoice-app-showcase) · [HealHub](https://github.com/Karamalawaj/healhub-showcase) · [Bright Eyes](https://github.com/Karamalawaj/bright-eyes-showcase)
 
 </div>
 
@@ -36,7 +36,7 @@ For projects where the full source is private, the public showcase intentionally
 
 ## Featured projects
 
-### [Nexus AI](https://github.com/Karamalawaj/nexus-ai-showcase) · 2026 🔒
+### [Nexus AI](https://karamalawaj.github.io/nexus-ai-showcase/) · 2026 🔒
 Multi-tenant AI commerce platform with a FastAPI central service, per-store configuration, AI personas, scoped API access, WooCommerce-oriented integration, and embeddable client-side assistant experiences.
 
 **Built with:** Python · FastAPI · SQLAlchemy · SQLite/PostgreSQL · Jinja2 · JavaScript · Google GenAI · WooCommerce
