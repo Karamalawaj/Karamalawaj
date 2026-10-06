@@ -41,7 +41,7 @@ Multi-tenant AI commerce platform with a FastAPI central service, per-store conf
 
 **Built with:** Python · FastAPI · SQLAlchemy · SQLite/PostgreSQL · Jinja2 · JavaScript · Google GenAI · WooCommerce
 
-[View project showcase →](https://github.com/Karamalawaj/nexus-ai-showcase)
+[View project showcase →](https://github.com/Karamalawaj/nexus-ai-showcase) · [Try NEO, the interactive 3D companion →](https://karamalawaj.github.io/nexus-ai-showcase/)
 
 ### [SaaS Engineering Hub](https://github.com/Karamalawaj/saas-engineering-hub-showcase) · 2026 🔒
 Private engineering control plane and workspace platform for project-scoped AI-assisted development, evidence-driven verification, runtime controls, guarded data inspection, trust boundaries, and release readiness.
