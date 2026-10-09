@@ -12,6 +12,8 @@ Based in the **United Arab Emirates** · Open to software engineering opportunit
 
 [Nexus AI](https://github.com/Karamalawaj/nexus-ai-showcase) · [SaaS Engineering Hub](https://github.com/Karamalawaj/saas-engineering-hub-showcase) · [Invoice System](https://github.com/Karamalawaj/invoice-app-showcase) · [HealHub](https://github.com/Karamalawaj/healhub-showcase) · [Bright Eyes](https://github.com/Karamalawaj/bright-eyes-showcase)
 
+[Explore my 3D portfolio with NEXUS AI →](https://karamalawaj.github.io/)
+
 </div>
 
 ---
